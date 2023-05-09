@@ -1,5 +1,9 @@
 import puppeteer from "puppeteer";
+import Airtable from "airtable";
+import * as dotenv from "dotenv";
 import fs from "fs";
+
+dotenv.config();
 
 const saveToFile = (data) => {
   fs.writeFile("./data/jobs.json", JSON.stringify(data), "utf8", (err) => {
@@ -10,6 +14,13 @@ const saveToFile = (data) => {
     }
   });
 };
+
+// Initialize Airtable with your API key and base ID
+const base = new Airtable({ apiKey: process.env.API_TOKEN }).base(
+  "applIB2uiC52GIqQx"
+);
+
+// Create a new record in a table
 
 let offerTab = [];
 
@@ -50,6 +61,22 @@ const getJobOffers = async () => {
 
     offerTab = [...offerTab, offers];
 
+    offers.map((elem) => {
+      base("Jobs").create(
+        {
+          name: elem.name,
+        },
+        function (err, record) {
+          if (err) {
+            console.error(err);
+            return;
+          }
+
+          console.log("Created", record.getId());
+        }
+      );
+    });
+
     await Promise.all([
       page.waitForNavigation({ waitUntil: "networkidle2" }),
       page.click("[aria-label='Pagination'] li:nth-last-child(1) a"),
@@ -58,7 +85,7 @@ const getJobOffers = async () => {
 
   offerTab = offerTab.concat.apply([], offerTab).flat();
 
-  getMoreAboutOffers(0);
+  // getMoreAboutOffers(0);
 
   await browser.close();
 };
