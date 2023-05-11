@@ -7,9 +7,9 @@
     "website": "https://weuplearning.com/",
     "city": "Charenton-Le-Pont, Marseille",
     "networks": [
-      "{\"instagram\":\"https://instagram.com/weuplearning\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/8122425\"}",
-      "{\"twitter\":\"https://twitter.com/WeUpLearning\"}"
+      { "name": "instagram", "url": "https://instagram.com/weuplearning" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/8122425" },
+      { "name": "twitter", "url": "https://twitter.com/WeUpLearning" }
     ]
   },
   {
@@ -20,7 +20,10 @@
     "website": "https://www.theonestudio.fr/",
     "city": "Boulogne-Billancourt",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/the-one-studio-paris\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/the-one-studio-paris"
+      }
     ]
   },
   {
@@ -31,9 +34,12 @@
     "website": "https://wizville.com",
     "city": "Paris",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/wizvilleapp\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/wizville-sas\"}",
-      "{\"twitter\":\"https://twitter.com/wizville\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/wizvilleapp" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/wizville-sas"
+      },
+      { "name": "twitter", "url": "https://twitter.com/wizville" }
     ]
   },
   {
@@ -44,8 +50,8 @@
     "website": "https://www.nexqt.com/",
     "city": "Paris",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/nexqt\"}",
-      "{\"twitter\":\"https://twitter.com/FouziBenkhelifa\"}"
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/nexqt" },
+      { "name": "twitter", "url": "https://twitter.com/FouziBenkhelifa" }
     ]
   },
   {
@@ -56,9 +62,12 @@
     "website": "http://www.armis.tech/",
     "city": "Paris",
     "networks": [
-      "{\"instagram\":\"https://instagram.com/armis.tech\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/armis-tech\"}",
-      "{\"twitter\":\"https://twitter.com/Armis_Tech\"}"
+      { "name": "instagram", "url": "https://instagram.com/armis.tech" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/armis-tech"
+      },
+      { "name": "twitter", "url": "https://twitter.com/Armis_Tech" }
     ]
   },
   {
@@ -69,9 +78,12 @@
     "website": "http://lajavaness.com/",
     "city": "Paris",
     "networks": [
-      "{\"instagram\":\"https://instagram.com/lajavaness\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/la-javaness\"}",
-      "{\"twitter\":\"https://twitter.com/LaJavaness\"}"
+      { "name": "instagram", "url": "https://instagram.com/lajavaness" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/la-javaness"
+      },
+      { "name": "twitter", "url": "https://twitter.com/LaJavaness" }
     ]
   },
   {
@@ -82,10 +94,13 @@
     "website": "https://www.Getapony.com",
     "city": "Bordeaux, Angers, Brussels, Grenoble, Paris, Torino",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/getapony\"}",
-      "{\"instagram\":\"https://instagram.com/getapony\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/ponybikesltd\"}",
-      "{\"twitter\":\"https://twitter.com/getapony\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/getapony" },
+      { "name": "instagram", "url": "https://instagram.com/getapony" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/ponybikesltd"
+      },
+      { "name": "twitter", "url": "https://twitter.com/getapony" }
     ]
   },
   {
@@ -95,7 +110,9 @@
     "link": "https://www.welcometothejungle.com/fr/companies/sonio/tech",
     "website": "https://www.sonio.ai",
     "city": "Paris",
-    "networks": ["{\"linkedin\":\"https://www.linkedin.com/company/sonio\"}"]
+    "networks": [
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/sonio" }
+    ]
   },
   {
     "name": "Stime",
@@ -104,7 +121,9 @@
     "link": "https://www.welcometothejungle.com/fr/companies/stime/tech",
     "website": "https://www.carrieres-mousquetaires.com/nos-metiers/informatique",
     "city": "Châtillon",
-    "networks": ["{\"linkedin\":\"https://www.linkedin.com/company/71780113\"}"]
+    "networks": [
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/71780113" }
+    ]
   },
   {
     "name": "Gojob",
@@ -114,9 +133,9 @@
     "website": "http://gojob.com",
     "city": "Aix-En-Provence, Paris",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/gojobcom\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/gojob\"}",
-      "{\"twitter\":\"https://twitter.com/gojob_official\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/gojobcom" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/gojob" },
+      { "name": "twitter", "url": "https://twitter.com/gojob_official" }
     ]
   },
   {
@@ -127,7 +146,10 @@
     "website": "http://heropay.eu",
     "city": "Paris",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/hero-hero-hero\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/hero-hero-hero"
+      }
     ]
   },
   {
@@ -138,11 +160,17 @@
     "website": "https://www.greenly.earth/",
     "city": "Paris, Londres, New York",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/Greenly.fr\"}",
-      "{\"instagram\":\"https://instagram.com/greenly.earth\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/greenly-earth\"}",
-      "{\"twitter\":\"https://twitter.com/greenly_fr\"}",
-      "{\"youtube\":\"https://www.youtube.com/UC4tYYZxoTci7k0gl43vp0iw\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/Greenly.fr" },
+      { "name": "instagram", "url": "https://instagram.com/greenly.earth" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/greenly-earth"
+      },
+      { "name": "twitter", "url": "https://twitter.com/greenly_fr" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/UC4tYYZxoTci7k0gl43vp0iw"
+      }
     ]
   },
   {
@@ -153,10 +181,16 @@
     "website": "https://www.mooncard.co/",
     "city": "Paris, Bordeaux, Dijon, Marseille",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/mooncard.co\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/mooncard\"}",
-      "{\"twitter\":\"https://twitter.com/mooncard_co\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UC8awUKj3XV82QTplYRBdCLA\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/mooncard.co" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/mooncard"
+      },
+      { "name": "twitter", "url": "https://twitter.com/mooncard_co" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC8awUKj3XV82QTplYRBdCLA"
+      }
     ]
   },
   {
@@ -167,9 +201,15 @@
     "website": "http://www.baracoda.com",
     "city": "Neuilly-Sur-Seine, Hong Kong, Laguna / Manila, Shanghai, Varsovie",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/28170438\"}",
-      "{\"twitter\":\"https://twitter.com/BaracodaGroup\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UCdTk4cOqd0zoRjGXDB9y3TQ\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/28170438"
+      },
+      { "name": "twitter", "url": "https://twitter.com/BaracodaGroup" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCdTk4cOqd0zoRjGXDB9y3TQ"
+      }
     ]
   },
   {
@@ -178,12 +218,21 @@
     "logo": "https://cdn-images.welcometothejungle.com/Uan3bZUCHwtiugU2CjccxQ4vFkiFZdrWqnZoajZ7R7k/w:200/q:85/czM6Ly93dHRqLXBy/b2R1Y3Rpb24vdXBs/b2Fkcy9vcmdhbml6/YXRpb24vbG9nby8x/NTY2LzE0NzUxNC80/NTk4ZDFmYS1kZjA4/LTQxMGEtYTc3YS1j/NTk3OTFjM2Q3NDQu/cG5n",
     "link": "https://www.welcometothejungle.com/fr/companies/positivethinkingcompany/tech",
     "website": "https://positivethinking.tech/fr/",
-    "city": "Paris, Lille, Lyon, Nantes",
+    "city": "Paris, Le Bourget-Du-Lac, Lille, Lyon, Nantes",
     "networks": [
-      "{\"instagram\":\"https://instagram.com/positivethinkingcompany\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/the-positive-thinking-company\"}",
-      "{\"twitter\":\"https://twitter.com/ptc_tech\"}",
-      "{\"youtube\":\"https://www.youtube.com/@Positive_Thinking_Company\"}"
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/positivethinkingcompany"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/the-positive-thinking-company"
+      },
+      { "name": "twitter", "url": "https://twitter.com/ptc_tech" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@Positive_Thinking_Company"
+      }
     ]
   },
   {
@@ -194,9 +243,9 @@
     "website": "https://finfrog.fr",
     "city": "Paris",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/finfrog.fr\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/finfrog\"}",
-      "{\"twitter\":\"https://twitter.com/finfrog_fr\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/finfrog.fr" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/finfrog" },
+      { "name": "twitter", "url": "https://twitter.com/finfrog_fr" }
     ]
   },
   {
@@ -207,10 +256,16 @@
     "website": "https://www.roihunter.com/",
     "city": "Brno, Dubai, London, Praha, São Paulo",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/roihunter\"}",
-      "{\"instagram\":\"https://instagram.com/roihuntercom\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/roi-hunter\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UCei4RkALfKWy-mS6GkEQaLw\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/roihunter" },
+      { "name": "instagram", "url": "https://instagram.com/roihuntercom" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/roi-hunter"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCei4RkALfKWy-mS6GkEQaLw"
+      }
     ]
   },
   {
@@ -221,10 +276,16 @@
     "website": "https://flitter.fr/",
     "city": "Paris",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/FlitterAssurance\"}",
-      "{\"instagram\":\"https://instagram.com/flitter_assurance\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/flitter-assurance\"}",
-      "{\"twitter\":\"https://twitter.com/flitterfr\"}"
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/FlitterAssurance"
+      },
+      { "name": "instagram", "url": "https://instagram.com/flitter_assurance" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/flitter-assurance"
+      },
+      { "name": "twitter", "url": "https://twitter.com/flitterfr" }
     ]
   },
   {
@@ -235,9 +296,9 @@
     "website": "http://www.saegus.com",
     "city": "Paris, Valbonne",
     "networks": [
-      "{\"instagram\":\"https://instagram.com/saegus.saegus\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/saegus\"}",
-      "{\"youtube\":\"https://www.youtube.com/@saegus707\"}"
+      { "name": "instagram", "url": "https://instagram.com/saegus.saegus" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/saegus" },
+      { "name": "youtube", "url": "https://www.youtube.com/@saegus707" }
     ]
   },
   {
@@ -247,7 +308,9 @@
     "link": "https://www.welcometothejungle.com/fr/companies/groupe-la-centrale/tech",
     "website": "https://www.groupelacentrale.fr/",
     "city": "Paris, Melun, Province, Versailles",
-    "networks": ["{\"linkedin\":\"https://www.linkedin.com/company/1041529\"}"]
+    "networks": [
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/1041529" }
+    ]
   },
   {
     "name": "Wemanity",
@@ -257,11 +320,17 @@
     "website": "https://www.wemanity.com/fr/",
     "city": "Paris, Bruxelles, Casablanca, Genève, La Madeleine",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/Wemanity\"}",
-      "{\"instagram\":\"https://instagram.com/wemanity\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/wemanity\"}",
-      "{\"twitter\":\"https://twitter.com/wemanity\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UC6OtUOYvbMIjs1RX0sXhffg\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/Wemanity" },
+      { "name": "instagram", "url": "https://instagram.com/wemanity" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/wemanity"
+      },
+      { "name": "twitter", "url": "https://twitter.com/wemanity" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC6OtUOYvbMIjs1RX0sXhffg"
+      }
     ]
   },
   {
@@ -272,9 +341,15 @@
     "website": "https://www.pricehubble.com/en/",
     "city": "Paris, Berlin, Brussels, Hamburg, Milan, Naples, Rome, Vienna, Zürich",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/pricehubble-ag\"}",
-      "{\"twitter\":\"https://twitter.com/pricehubble\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UCoO6yeMn8e22QS_6wxN-Apg\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/pricehubble-ag"
+      },
+      { "name": "twitter", "url": "https://twitter.com/pricehubble" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCoO6yeMn8e22QS_6wxN-Apg"
+      }
     ]
   },
   {
@@ -285,8 +360,11 @@
     "website": "https://www.la-francaise.com/fr",
     "city": "Paris, London",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/lafrancaise-group\"}",
-      "{\"youtube\":\"https://www.youtube.com/LaFrancaiseGroup\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/lafrancaise-group"
+      },
+      { "name": "youtube", "url": "https://www.youtube.com/LaFrancaiseGroup" }
     ]
   },
   {
@@ -297,8 +375,11 @@
     "website": "https://www.izix.eu/fr/",
     "city": "Ixelles, Paris",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/izix-parking\"}",
-      "{\"youtube\":\"https://www.youtube.com/izix5123\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/izix-parking"
+      },
+      { "name": "youtube", "url": "https://www.youtube.com/izix5123" }
     ]
   },
   {
@@ -309,7 +390,10 @@
     "website": "https://connect.myriadgroup.com",
     "city": "Paris, Abidjan, Dakar",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/myriad-connect\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/myriad-connect"
+      }
     ]
   },
   {
@@ -320,11 +404,14 @@
     "website": "https://gymlib.com/",
     "city": "Paris, Barcelona, Bruxelles",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/gymlib\"}",
-      "{\"instagram\":\"https://instagram.com/gymlib_\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/4874265\"}",
-      "{\"twitter\":\"https://twitter.com/gymlib\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UCe1eE6yGOx6qqUHySnNOKwQ\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/gymlib" },
+      { "name": "instagram", "url": "https://instagram.com/gymlib_" },
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/4874265" },
+      { "name": "twitter", "url": "https://twitter.com/gymlib" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCe1eE6yGOx6qqUHySnNOKwQ"
+      }
     ]
   },
   {
@@ -335,9 +422,12 @@
     "website": "https://www.equinox.fr",
     "city": "Paris",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/equinoxccg\"}",
-      "{\"instagram\":\"https://instagram.com/equinox_ccg\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/equinox-collectible-card-games-publisher\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/equinoxccg" },
+      { "name": "instagram", "url": "https://instagram.com/equinox_ccg" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/equinox-collectible-card-games-publisher"
+      }
     ]
   },
   {
@@ -347,7 +437,9 @@
     "link": "https://www.welcometothejungle.com/fr/companies/hokla/tech",
     "website": "https://www.hokla.com/",
     "city": "Paris",
-    "networks": ["{\"linkedin\":\"https://www.linkedin.com/company/hokla\"}"]
+    "networks": [
+      { "name": "linkedin", "url": "https://www.linkedin.com/company/hokla" }
+    ]
   },
   {
     "name": "ESENS",
@@ -357,11 +449,17 @@
     "website": "https://esensconsulting.com/",
     "city": "Paris, Bordeaux, Caen, Lille, Lyon, Nantes, Rennes, Toulouse",
     "networks": [
-      "{\"facebook\":\"https://www.facebook.com/esensconsulting\"}",
-      "{\"instagram\":\"https://instagram.com/esensconsulting\"}",
-      "{\"linkedin\":\"https://www.linkedin.com/company/esens-consulting\"}",
-      "{\"twitter\":\"https://twitter.com/EsensConsulting\"}",
-      "{\"youtube\":\"https://www.youtube.com/channel/UCBhVBDl0sDFQXkvntPfuVTw\"}"
+      { "name": "facebook", "url": "https://www.facebook.com/esensconsulting" },
+      { "name": "instagram", "url": "https://instagram.com/esensconsulting" },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/esens-consulting"
+      },
+      { "name": "twitter", "url": "https://twitter.com/EsensConsulting" },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCBhVBDl0sDFQXkvntPfuVTw"
+      }
     ]
   },
   {
@@ -372,7 +470,10 @@
     "website": "https://sarus.tech",
     "city": "Paris",
     "networks": [
-      "{\"linkedin\":\"https://www.linkedin.com/company/sarus-technologies\"}"
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/sarus-technologies"
+      }
     ]
   }
 ]
