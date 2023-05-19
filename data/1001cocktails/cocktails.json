@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "Monaco",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81973_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_monaco_355947.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 367,
+    "ingredients": [
+      { "id": "35136", "quantity": 15, "measure": "cl" },
+      { "id": "46220", "quantity": 1, "measure": "cl" },
+      { "id": "51435", "quantity": 5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "26554" }, { "id": "09017" }],
+    "preparation": [
+      "Réalisez la recette \"Monaco\" dans un verre à mélange.",
+      "Servir le sirop de grenadine et la limonade sur des Glaçons et allonger de Bière. Boire très frais. .",
+      "Servir dans un verre de type \"verre tulipe\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Panaché",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84461_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_panache_356007.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 62,
+    "ingredients": [
+      { "id": "35136", "quantity": 10, "measure": "cl" },
+      { "id": "51435", "quantity": 10, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Panaché\" dans un verre à mélange.",
+      "Servir la limonade sur des Glaçons, allonger de Bière...boire très frais. .",
+      "Servir dans un verre de type \"tumbler\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Dame du lac",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118133_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_dame-du-lac_356799.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 149,
+    "ingredients": [
+      { "id": "35136", "quantity": 25, "measure": "cl" },
+      { "id": "28869", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Dame du lac\" directement dans le verre.",
+      "Dans un ptit verre de 2 cl mettre 1 cl de whisky, boire une ou deux gorgés de bière et couler doucement le petit verre dans un grand verre adelscott. Le whisky remonte doucement grace aux bulles de la bière. .",
+      "Servir dans un verre de type \"old fashioned\"."
+    ]
+  },
+  {
+    "name": "Demi-peche",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118817_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_demi-peche_356946.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 61,
+    "ingredients": [
+      { "id": "03551", "quantity": 2, "measure": "cl" },
+      { "id": "35136", "quantity": 25, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "79403" }],
+    "preparation": [
+      "Réalisez la recette \"Demi-peche\" directement dans le verre.",
+      "Verser d'abord le sirop de pêche et remplissez ensuite de bière fraîche. Mélanger délicatement avec une cuillère avant de servir.",
+      "Servir dans un verre de type \"chope\"."
+    ]
+  },
+  {
+    "name": "Tango",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84949_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_tango_356971.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3,
+    "reviews": 120,
+    "ingredients": [
+      { "id": "35136", "quantity": 25, "measure": "cl" },
+      { "id": "46220", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "09017" }],
+    "preparation": [
+      "Réalisez la recette \"Tango\" directement dans le verre.",
+      "Versez d'abord le sirop de grenadine et puis ajoutez la bière!.",
+      "Servir dans un verre de type \"verre tulipe\"."
+    ]
+  },
+  {
+    "name": "Cervoise",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84812_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cervoise_357041.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 202,
+    "ingredients": [
+      { "id": "71246", "quantity": 3, "measure": "cl" },
+      { "id": "87576", "quantity": 20, "measure": "cl" },
+      { "id": "35136", "quantity": 25, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "79403" }],
+    "preparation": [
+      "Réalisez la recette \"Cervoise\" directement dans le verre.",
+      "Verser le sirop de citron, ensuite le vin blanc frais et compléter avec la bière bien fraîche.",
+      "Servir dans un verre de type \"chope\"."
+    ]
+  },
+  {
+    "name": "Molotov",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118541_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_molotov_357221.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 129,
+    "ingredients": [
+      { "id": "45485", "quantity": 8, "measure": "cl" },
+      { "id": "35136", "quantity": 10, "measure": "cl" },
+      { "id": "46220", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Molotov\" directement dans le verre.",
+      "Versez la grenadine, la vodka et compléter avec la bière bien fraîche.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Picon Bière",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/85806_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_picon-biere_357709.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 78,
+    "ingredients": [
+      { "id": "35136", "quantity": 12, "measure": "cl" },
+      { "id": "33424", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Picon Bière\" directement dans le verre.",
+      "Verser le picon et ensuite la bière directement dans le verre et agiter legèrement..",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Embuscade",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118263_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_embuscade_358312.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 298,
+    "ingredients": [
+      { "id": "87576", "quantity": 6, "measure": "cl" },
+      { "id": "85681", "quantity": 2, "measure": "cl" },
+      { "id": "42220", "quantity": 1, "measure": "cl" },
+      { "id": "71246", "quantity": 0.5, "measure": "cl" },
+      { "id": "35136", "quantity": null }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Embuscade\" directement dans le verre.",
+      "Mélangez les ingrédients dans le verre. Compléter avec la bière fraîche.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Despejito",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118528_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_despejito_358983.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 99,
+    "ingredients": [
+      { "id": "58660", "quantity": 2, "measure": "cl" },
+      { "id": "92070", "quantity": 15, "measure": "cl" },
+      { "id": "16387", "quantity": 0.5 },
+      { "id": "65607", "quantity": 7 },
+      { "id": "11139", "quantity": 2, "measure": "cuillères à café" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Despejito\" directement dans le verre.",
+      "Coupez la moitié d'un citron vert en quartiers et déposez-les dans un verre. Ajoutez le sucre. A l'aide d'un pilon, écraser le citron, afin que le jus se mélange au sucre. Ajoutez les feuilles de menthe fraîche et écrasez-les délicatement avec le pilon. Ajoutez le rhum et mélangez le tout. Ajoutez de la glace pilée et complétez avec la Desperados.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Demoiselle",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84875_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_demoiselle_354937.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 2,
+    "ingredients": [
+      { "id": "71956", "quantity": 4, "measure": "cl" },
+      { "id": "90842", "quantity": 8, "measure": "cl" },
+      { "id": "90588", "quantity": 8, "measure": "cl" },
+      { "id": "13752", "quantity": 2, "measure": "cl" },
+      { "id": "00957", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Demoiselle\" au shaker.",
+      "Verser les ingredients dans le shaker et secouer.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Feuille d'ananas fendu à sa base et posée sur le bord du verre."
+    ]
+  },
+  {
+    "name": "31st Birthday",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84876_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_31st-birthday_354939.aspx",
+    "level": "Facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 10,
+    "ingredients": [
+      { "id": "14433", "quantity": 8, "measure": "cl" },
+      { "id": "91876", "quantity": 2, "measure": "cuillères" },
+      { "id": "23888", "quantity": 50, "measure": "g" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"31st Birthday\" au shaker.",
+      "Dans un shaker rempli aux 3/4 de glace, verser le Get 31, le nutella (ou autre pâte à tartiner) et la pulpe du fruit. Shaker puis servir dans un verre à cocktail sur glaçons, avec 2 petites pailles.",
+      "Servir dans un verre de type \"verre à martini\"."
+    ]
+  },
+  {
+    "name": "Alexander's Sister",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84796_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_alexander-s-sister_355135.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3,
+    "reviews": 7,
+    "ingredients": [
+      { "id": "72341", "quantity": 4, "measure": "cl" },
+      { "id": "14433", "quantity": 2, "measure": "cl" },
+      { "id": "72451", "quantity": 2, "measure": "cl" },
+      { "id": "33480", "quantity": 1, "measure": "cl" },
+      { "id": "91101", "quantity": 1, "measure": "pincée" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Alexander's Sister\" au shaker.",
+      "Frappez les ingrédients (excepté la noix de muscade), puis passez dans le verre. Saupoudrez avec la noix de muscade rapée. Servez.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Lagon bleu",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118425_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_lagon-bleu_355840.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 276,
+    "ingredients": [
+      { "id": "71365", "quantity": 4, "measure": "cl" },
+      { "id": "83038", "quantity": 4, "measure": "cl" },
+      { "id": "00474", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Lagon bleu\" au shaker.",
+      "Au shaker avec de la glace. Servir dans un verre à cocktail. .",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Baby Guinness",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118262_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_baby-guinness_356771.aspx",
+    "level": "Très facile",
+    "cost": 3,
+    "stars": 4,
+    "reviews": 17,
+    "ingredients": [
+      { "id": "68600", "quantity": 0.75 },
+      { "id": "97241", "quantity": 0.25 }
+    ],
+    "utensils": [{ "id": "74411" }],
+    "preparation": [
+      "Réalisez la recette \"Baby Guinness\" directement dans le verre.",
+      "Servir trois quarts de liqueur de Café, puis à l'aide d'une petite cuillere verser doucement le Baileys pour compléter le verre. Le Baileys doit rester au dessus de la liqueur de café pour imiter la mousse blanche.",
+      "Servir dans un verre de type \"shooter\"."
+    ]
+  },
+  {
+    "name": "Manzana verde",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118532_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_manzana-verde_356819.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 330,
+    "ingredients": [
+      { "id": "01004", "quantity": 0.5, "measure": "cl" },
+      { "id": "90842", "quantity": 10, "measure": "cl" },
+      { "id": "29277", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Manzana verde\" directement dans le verre.",
+      "Verser directement les ingrédients dans un verre avec des glaçons...",
+      "Servir dans un verre de type \"old fashioned\"."
+    ]
+  },
+  {
+    "name": "Blow Job",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81931_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_blow-job_356840.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 209,
+    "ingredients": [
+      { "id": "68600", "quantity": 2, "measure": "cl" },
+      { "id": "97241", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "74411" }],
+    "preparation": [
+      "Réalisez la recette \"Blow Job\" directement dans le verre",
+      "Placez les ingrédients dans le verre et versez de la crème chantilly sur la surface. .",
+      "Servir dans un verre de type \"shooter\"."
+    ]
+  },
+  {
+    "name": "Manzana Bubble",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118614_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_manzana-bubble_357060.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 110,
+    "ingredients": [
+      { "id": "29277", "quantity": 4, "measure": "cl" },
+      { "id": "51435", "quantity": 1 },
+      { "id": "26784", "quantity": 1, "measure": "trait" }
+    ],
+    "utensils": [{ "id": "74411" }],
+    "preparation": [
+      "Réalisez la recette \"Manzana Bubble\" directement dans le verre.",
+      "4cl de Manzana Védrenne sur de la glace pilée, allongez de limonade avec un jus de citron.",
+      "Servir dans un verre de type \"shooter\"."
+    ]
+  },
+  {
+    "name": "Orgasm",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118256_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_orgasm_357616.aspx",
+    "level": "Facile",
+    "cost": 3,
+    "stars": 4,
+    "reviews": 189,
+    "ingredients": [
+      { "id": "97241", "quantity": 3, "measure": "cl" },
+      { "id": "58162", "quantity": 3, "measure": "cl" },
+      { "id": "68600", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }, { "id": "62110" }],
+    "preparation": [
+      "Réalisez la recette \"Orgasm\" au shaker.",
+      "Frappez tous les ingrédients au shaker avec des glaçons et versez.",
+      "Servir dans un verre de type \"old fashioned\"."
+    ]
+  },
+  {
+    "name": "Apple mojito",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84375_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_apple-mojito_358122.aspx",
+    "level": "Facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 247,
+    "ingredients": [
+      { "id": "29277", "quantity": 6, "measure": "cl" },
+      { "id": "85873", "quantity": 2, "measure": "cl" },
+      { "id": "19225", "quantity": 6, "measure": "cl" },
+      { "id": "65607", "quantity": 7 }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Apple mojito\" directement dans le verre.",
+      "Placez le demi citron vert et la menthe fraîche dans le verre, ajouter la manzana, bien écraser à l'aide d'un pilon la préparation, ne pas ajouter de sucre, mettre le jus de pomme puis ajouter la glace pilée, ensuite allonger de perrier.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Cointreau Teese",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81968_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cointreau-teese_358352.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 25,
+    "ingredients": [
+      { "id": "20369", "quantity": 4, "measure": "cl" },
+      { "id": "85873", "quantity": 2, "measure": "cl" },
+      { "id": "26520", "quantity": 1.5, "measure": "cl" },
+      { "id": "26784", "quantity": 1.5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Cointreau Teese\" directement dans le verre.",
+      "Passez un morceau de gingembre frais sur le bord du verre. Shakez avec des glaçons, versez en retenant les glaçons. Servez sans paille.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Décorez avec une violette."
+    ]
+  },
+  {
+    "name": "Prickly Pear Margarita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121158_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_prickly-pear-margarita_531403.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "98766", "quantity": 4, "measure": "cl" },
+      { "id": "26784", "quantity": 3, "measure": "cl" },
+      { "id": "82713", "quantity": 1.5, "measure": "cl" },
+      { "id": "52306", "quantity": 1.5, "measure": "cl" },
+      { "id": "45656", "quantity": 2, "measure": "traits" },
+      { "id": "16387", "quantity": 1, "measure": "rondelle" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Mettre tous les ingrédients dans un shaker en métal. Ajouter de la glace, secouer vigoureusement et filtrer dans un verre à glace.",
+      "Ajouter de la glace fraîche et garnir."
+    ]
+  },
+  {
+    "name": "Aloe Vera Margarita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121157_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_aloe-vera-margarita_531402.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "98766", "quantity": 4, "measure": "cl" },
+      { "id": "77749", "quantity": 3, "measure": "cl" },
+      { "id": "26784", "quantity": 1.5, "measure": "cl" },
+      { "id": "21986", "quantity": 1.5, "measure": "cl" },
+      { "id": "09680", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Mettre tous les ingrédients dans un shaker en métal. Ajouter de la glace, secouer vigoureusement et filtrer dans un verre à glace.",
+      "Ajouter de la glace fraîche et garnir."
+    ]
+  },
+  {
+    "name": "Margarita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80288_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_margarita_354941.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 1834,
+    "ingredients": [
+      { "id": "57878", "quantity": 5, "measure": "cl" },
+      { "id": "20369", "quantity": 3, "measure": "cl" },
+      { "id": "21877", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "78195" }, { "id": "62110" }, { "id": "19698" }],
+    "preparation": [
+      "Réalisez la recette \"Margarita\" au shaker.",
+      "Frapper les ingrédients au shaker avec des glaçons puis verser dans le verre givré au citron et au sel fin... Pour givrer facilement le verre, passer le citron sur le bord du verre et tremper les bords dans le sel.",
+      "Servir dans un verre de type \"verre à margarita\".",
+      "Décorer d'une tranche de citron vert..."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b44?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_6bc18e0a01dd02677b4789517d161b12&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Tequila Sunrise",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80277_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_tequila-sunrise_354975.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 1102,
+    "ingredients": [
+      { "id": "57878", "quantity": 6, "measure": "cl" },
+      { "id": "90842", "quantity": 12, "measure": "cl" },
+      { "id": "46220", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "84789" }, { "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Tequila Sunrise\" directement dans le verre.",
+      "Verser la tequila sur des glaçons dans le verre. Compléter avec le jus d'orange et remuer. Versez doucement le sirop de grenadine dans le verre pour que celui-ci tombe au fond. Donnez alors un petit coup de cuillère pour affiner le dégradé si nécessaire. .",
+      "Servir dans un verre de type \"tumbler\".",
+      "Une rondelle d'orange."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b4b?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_1c97a333efdae6002a7a94717262fb2f&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Tequila Sunrise Original",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118264_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_tequila-sunrise-original_354976.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 154,
+    "ingredients": [
+      { "id": "57878", "quantity": 5, "measure": "cl" },
+      { "id": "19225", "quantity": 10, "measure": "cl" },
+      { "id": "21877", "quantity": 2, "measure": "cl" },
+      { "id": "35592", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Tequila Sunrise Original\" directement dans le verre.",
+      "Versez la tequila dans le verre sur des glaçons. Ajoutez le jus d'un citron vert, complétez avec l'eau gazeuse et faites couler doucement la crème de cassis qui tombera au fond, formant un dégradé.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Blue Shark",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118031_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_blue-shark_355042.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 283,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "57878", "quantity": 4, "measure": "cl" },
+      { "id": "00474", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Blue Shark\" directement dans le verre.",
+      "Versez les ingrédients directement dans le verre contenant beaucoup de glaçons. Mélangez.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Cucaracha",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84588_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cucaracha_355053.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 112,
+    "ingredients": [
+      { "id": "57878", "quantity": 4, "measure": "cl" },
+      { "id": "68600", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "74411" }],
+    "preparation": [
+      "Réalisez la recette \"Cucaracha\" directement dans le verre.",
+      "Ajoutez la mesure de liqueur de café dans le verre puis la Tequila doucement. Chauffez la Tequila avec un briquet jusqu'à ce que l'alcool flambe. Attendre 30 secondes, planter une paille au fond du verre et boire d'un trait. Rapidement sinon la paile fond.",
+      "Servir dans un verre de type \"shooter\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Conchita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84245_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_conchita_355185.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 5,
+    "ingredients": [
+      { "id": "57878", "quantity": 4, "measure": "cl" },
+      { "id": "83038", "quantity": 2, "measure": "cl" },
+      { "id": "26784", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Conchita\" au shaker.",
+      "Frapper et passer dans le verre.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "El Diablo",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118134_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_el-diablo_355187.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 153,
+    "ingredients": [
+      { "id": "57878", "quantity": 4, "measure": "cl" },
+      { "id": "16387", "quantity": 2, "measure": "quartiers" },
+      { "id": "35592", "quantity": 2, "measure": "cl" },
+      { "id": "05105", "quantity": 12, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"El Diablo\" directement dans le verre.",
+      "Ecraser les quartiers de citron à l'aide d'un pilon, remplissez le verre aux deux tiers de glaçons, verser la crème de cassis, la tequila et le ginger ale. Remuez et servir.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Margarita Frozen",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80171_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_margarita-frozen_355683.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 316,
+    "ingredients": [
+      { "id": "57878", "quantity": 4, "measure": "cl" },
+      { "id": "26784", "quantity": 3, "measure": "cl" },
+      { "id": "20369", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "85322" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Margarita Frozen\" au mixer.",
+      "Tout placer au mixer avec beaucoup de glaçons. Mixer et servir dans un verre givré au sel et au jus de citron. .",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Une rondelle de citron vert sur le bord du verre."
+    ]
+  },
+  {
+    "name": "Tokyo Mule",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121257_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_tokyo-mule_531450.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 2,
+    "reviews": 1,
+    "ingredients": [
+      { "id": "48349", "quantity": 50, "measure": "ml" },
+      { "id": "36066", "quantity": 90, "measure": "ml" },
+      { "id": "21877", "quantity": 15, "measure": "ml" },
+      { "id": "89780", "quantity": 1, "measure": "pointe" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans une tasse en cuivre, mélanger le citron vert et le wasabi.",
+      "Remplir de glaçons et ajouter la Nikka Coffey Vodka.",
+      "Verser la Fever-Tree Premium Ginger Beer. Donner un tour avec une cuillère à mélange."
+    ]
+  },
+  {
+    "name": "Cîroc Berry Spritz",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121150_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_ciroc-berry-spritz_531400.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "11974", "quantity": 4, "measure": "cl" },
+      { "id": "90588", "quantity": 5, "measure": "cl" },
+      { "id": "46220", "quantity": 1, "measure": "cl" },
+      { "id": "60819", "quantity": 7.5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Mélanger la vodka, le jus d'ananas et la grenadine dans un shaker avec de la glace.",
+      "Secouer bien et filtrer dans un verre. Compléter avec le champagne rosé."
+    ]
+  },
+  {
+    "name": "Cîroc Hot Mama",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121140_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_ciroc-hot-mama_531393.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "33043", "quantity": 4, "measure": "cl" },
+      { "id": "15556", "quantity": 10, "measure": "cl" },
+      { "id": "21877", "quantity": 3, "measure": "cl" },
+      { "id": "52306", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Mélanger tous les ingrédients dans un shaker avec de la glace.",
+      "Secouer bien et filtrer dans une noix de coco fraîche ou dans un verre."
+    ]
+  },
+  {
+    "name": "Cîroc Mojito Solo",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121138_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_ciroc-mojito-solo_531392.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "11826", "quantity": 4, "measure": "cl" },
+      { "id": "65607", "quantity": 4 },
+      { "id": "21877", "quantity": 3, "measure": "cl" },
+      { "id": "52306", "quantity": 2, "measure": "cl" },
+      { "id": "83414", "quantity": 1, "measure": "tranche" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Taper les feuilles de menthe dans les mains. Dans un shaker, ajouter la menthe et les autres ingrédients.",
+      "Mélanger avec de la glace. Secouer bien et filtrer dans un verre. Garnir avec la tranche de citron."
+    ]
+  },
+  {
+    "name": "Black Russian",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/82116_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_black-russian_354910.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 411,
+    "ingredients": [
+      { "id": "45485", "quantity": 6, "measure": "cl" },
+      { "id": "68600", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "78195" }, { "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Black Russian\" directement dans le verre.",
+      "Verser les alcools directement sur les glaçons. Remuer avant de consommer. .",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Deux cerises à l'eau de vie piquées."
+    ]
+  },
+  {
+    "name": "Bloody Mary",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81645_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_bloody-mary_354911.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 886,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "41411", "quantity": 12, "measure": "cl" },
+      { "id": "26784", "quantity": 0.5, "measure": "cl" },
+      { "id": "20016", "quantity": 0.5, "measure": "cl" },
+      { "id": "49341", "quantity": 2, "measure": "gouttes" },
+      { "id": "49399", "quantity": null },
+      { "id": "63281", "quantity": null },
+      { "id": "55647", "quantity": null }
+    ],
+    "utensils": [{ "id": "46023" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Bloody Mary\" dans un verre à mélange.",
+      "Agiter les ingrédients dans un verre à mélange avec des glaçons (pour refroidir sans trop diluer). Verser dans le verre, puis ajouter à convenance sel de céleri, sel et poivre. Décorer avec une tige de céleri et optionellement, une rondelle de citron. Servir. .",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer d'une branche de celeri."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865azg?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_75a1a515367b77667bdc6489b99519b9&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Cape Codder",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84248_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cape-codder_354928.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 20,
+    "ingredients": [
+      { "id": "45485", "quantity": 5, "measure": "cl" },
+      { "id": "35807", "quantity": 16, "measure": "cl" },
+      { "id": "16387", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Cape Codder\" directement dans le verre.",
+      "Mélanger les ingrédients avec des glaçons dans le verre. Presser quelques gouttes avant de laisser flotter le quartier citron vert.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer avec une tranche de citron vert."
+    ]
+  },
+  {
+    "name": "Cosmopolitan",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80274_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cosmopolitan_354933.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 1283,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "20369", "quantity": 2, "measure": "cl" },
+      { "id": "35807", "quantity": 2, "measure": "cl" },
+      { "id": "21877", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Cosmopolitan\" au shaker.",
+      "Frapper les ingrédients avec des glaçons et verser dans le verre en filtrant.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Eventuellement une rondelle de citron sur le bord du verre."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b1h?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_ad1abf9d0b95ee8c3d2637f2814d1b82&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Vodka martini (Vodkatini)",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81666_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_vodka-martini-vodkatini_354943.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 389,
+    "ingredients": [
+      { "id": "45485", "quantity": 7, "measure": "cl" },
+      { "id": "64730", "quantity": 5, "measure": "gouttes" }
+    ],
+    "utensils": [{ "id": "36949" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Vodka martini (Vodkatini)\" dans un verre à mélange.",
+      "Verser les ingrédients dans un verre à mélange avec des glaçons et remuez legèrement avant de le passer dans le verre à cocktail raffraîchi sans glaçons. Garnir d'une ou deux olives.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Décorer avec 1 ou 2 olives vertes dénoyautées."
+    ]
+  },
+  {
+    "name": "Screwdriver (Vodka orange)",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/82121_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_screwdriver-vodka-orange_354955.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 51,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "90842", "quantity": 12, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Screwdriver (Vodka orange)\" au shaker.",
+      "Versez les ingrédients dans le shaker. Frappez, puis servez.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer avec une tranche d'orange."
+    ]
+  },
+  {
+    "name": "Blue Lagoon",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80346_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_blue-lagoon_354973.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 1485,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "00474", "quantity": 3, "measure": "cl" },
+      { "id": "26784", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [
+      { "id": "10371" },
+      { "id": "07790" },
+      { "id": "62110" },
+      { "id": "36949" }
+    ],
+    "preparation": [
+      "Réalisez la recette \"Blue Lagoon\" au shaker.",
+      "Pressez le jus d'un demi-citron, ajoutez dans le shaker avec les autres ingrédients et des glaçons. Frappez puis versez dans le verre en filtrant. Afin qu'il soit plus frais et léger, remplissez auparavant le verre de glace pilée.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Un long zeste de citron vert."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865azq?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_11558f03c4fb9ce6b3cce506dc93c90c&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "White Russian",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81664_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_white-russian_355000.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 541,
+    "ingredients": [
+      { "id": "45485", "quantity": 4, "measure": "cl" },
+      { "id": "68600", "quantity": 4, "measure": "cl" },
+      { "id": "72451", "quantity": 2, "measure": "cl" },
+      { "id": "33480", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"White Russian\" directement dans le verre.",
+      "Dans le verre, sur des glaçons, verser les ingrédients. Servir avec un batônnet mélangeur.Pour un peu plus de légèreté, préférez du lait entier à la crème liquide.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Bellini",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81989_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_bellini_354914.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 230,
+    "ingredients": [
+      { "id": "52265", "quantity": 4, "measure": "cl" },
+      { "id": "52306", "quantity": 0.5, "measure": "cl" },
+      { "id": "18796", "quantity": null }
+    ],
+    "utensils": [{ "id": "39689" }],
+    "preparation": [
+      "Réalisez la recette \"Bellini\" directement dans le verre.",
+      "Utilisez de la purée de pêche ou écrasez une pêche jusqu'à obtenir une purée liquide. Ajoutez le sucre, mélangez et laissez ensuite la préparation au frigo environ 2 heures jusqu’à ce qu’elle ait la fraîcheur requise. Versez ensuite le nectar dans un verre puis compléter au champagne frais. Remuer en douceur et servir.",
+      "Servir dans un verre de type \"flûte\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Champagne cocktail",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118751_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_champagne-cocktail_354929.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 497,
+    "ingredients": [
+      { "id": "68482", "quantity": 1, "measure": "morceau" },
+      { "id": "55811", "quantity": 3, "measure": "traits" },
+      { "id": "18796", "quantity": 10, "measure": "cl" },
+      { "id": "95666", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "39689" }],
+    "preparation": [
+      "Réalisez la recette \"Champagne cocktail\" directement dans le verre.",
+      "Mettre le sucre au fond du verre et ajouter l'angostura afin d'imbiber le sucre. Verser le cognac et compléter au champagne frais.",
+      "Servir dans un verre de type \"flûte\".",
+      "Décorer d'un zeste de citron."
+    ]
+  },
+  {
+    "name": "Pick me up",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118527_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_pick-me-up_355471.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 64,
+    "ingredients": [
+      { "id": "18796", "quantity": null },
+      { "id": "31049", "quantity": 0.5 },
+      { "id": "95666", "quantity": 3, "measure": "cl" },
+      { "id": "46220", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "39689" }, { "id": "62110" }],
+    "preparation": [
+      "Réalisez la recette \"Pick me up\" au shaker.",
+      "Au shaker. Servir dans une flûte. Remplir de champagne. .",
+      "Servir dans un verre de type \"flûte\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Kir royal",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84504_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_kir-royal_355817.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 306,
+    "ingredients": [
+      { "id": "18796", "quantity": 9, "measure": "cl" },
+      { "id": "35592", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "39689" }],
+    "preparation": [
+      "Réalisez la recette \"Kir royal\" directement dans le verre.",
+      "Verser la crème dans le verre et compléter avec le champagne bien frais.",
+      "Servir dans un verre de type \"flûte\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Kir",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118750_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_kir_355818.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 656,
+    "ingredients": [
+      { "id": "87576", "quantity": 9, "measure": "cl" },
+      { "id": "35592", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "39689" }],
+    "preparation": [
+      "Réalisez la recette \"Kir\" directement dans le verre.",
+      "Verser la crème puis le vin frais. .",
+      "Servir dans un verre de type \"flûte\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Picon club",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118812_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_picon-club_356044.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3,
+    "reviews": 54,
+    "ingredients": [
+      { "id": "87576", "quantity": 6, "measure": "cl" },
+      { "id": "33424", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Picon club\" directement dans le verre.",
+      "Versez les ingrédients dans le verre contenant des glaçons.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Soupe Angevine",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80335_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_soupe-angevine_356457.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 2085,
+    "ingredients": [
+      { "id": "89038", "quantity": 6, "measure": "l" },
+      { "id": "26784", "quantity": 80, "measure": "cl" },
+      { "id": "52306", "quantity": 80, "measure": "cl" },
+      { "id": "20369", "quantity": 80, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "39689" }, { "id": "48722" }, { "id": "13136" }],
+    "preparation": [
+      "Réalisez la recette \"Soupe Angevine\" dans un grand récipient.",
+      "Préparation au dernier moment. L'ensemble des ingrédients doit être stocké au frais. Mélanger doucement les ingrédients dans une grande coupe à punch ou dans un saladier. Servez à la louche.",
+      "Servir dans un verre de type \"flûte\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Calimutcho (Calimucho)",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118255_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_calimutcho-calimucho_356533.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 52,
+    "ingredients": [
+      { "id": "44234", "quantity": 4, "measure": "cl" },
+      { "id": "30275", "quantity": 4, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Calimutcho (Calimucho)\" directement dans le verre.",
+      "Verser le vin, compléter avec le coca et boire frais avec quelques glaçons...",
+      "Servir dans un verre de type \"tumbler\".",
+      "Une tranche de citron dans le verre."
+    ]
+  },
+  {
+    "name": "Sangria espagnole",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80332_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_sangria-espagnole_356554.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 1011,
+    "ingredients": [
+      { "id": "44234", "quantity": 6, "measure": "bouteilles" },
+      { "id": "54447", "quantity": 48, "measure": "cl" },
+      { "id": "20369", "quantity": 48, "measure": "cl" },
+      { "id": "05916", "quantity": null },
+      { "id": "95666", "quantity": 48, "measure": "cl" },
+      { "id": "21432", "quantity": null },
+      { "id": "31049", "quantity": null },
+      { "id": "06512", "quantity": null },
+      { "id": "54735", "quantity": null },
+      { "id": "52598", "quantity": null }
+    ],
+    "utensils": [{ "id": "38130" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Sangria espagnole\" dans un verre à mélange.",
+      "Dans un saladier : couper les fruits en morceaux, ajouter le vin, les boissons alcoolisées, le Sucre et les fruits dans la coupe, bien brasser pour faire fondre le Sucre. Faire macérer une journée au frais avant de servir. Servir a la louche ou versez directement dans les verres si votre récipient le permet.",
+      "Servir dans un verre de type \"coupe\"."
+    ]
+  },
+  {
+    "name": "Agua de valencia",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118138_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_agua-de-valencia_356811.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 79,
+    "ingredients": [
+      { "id": "21432", "quantity": 8 },
+      { "id": "89038", "quantity": 2.8, "measure": "l" },
+      { "id": "45485", "quantity": 20, "measure": "cl" },
+      { "id": "72341", "quantity": 20, "measure": "cl" },
+      { "id": "52306", "quantity": 40, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Agua de valencia\" directement dans le verre.",
+      "Presser les oranges, on doit pouvoir obtenir un verre de jus (25 cl). Mélanger les ingrédients dans un récipient d'1 litre et laisser refroidir au réfrigérateur environ 2 ou 3 heures afin que le mélange de saveurs soit harmonieux. Avant de servir, remuer délicatement avec une cuillère en bois. Se consomme très frais et sans glaçons.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Un zeste d'orange."
+    ]
+  },
+  {
+    "name": "Gin & Tonic",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121259_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_gin-tonic_531451.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "08293", "quantity": 45, "measure": "ml" },
+      { "id": "36066", "quantity": 100, "measure": "ml" },
+      { "id": "96584", "quantity": 1 },
+      { "id": "52387", "quantity": null }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Remplir un verre de glaçons. Verser le Nikka Coffey Gin.",
+      "Ajouter le Fever-Tree Premium Indian Tonic Water et remuer délicatement avec une cuillère de bar.",
+      "Garnir d'un zeste de citron de vert."
+    ]
+  },
+  {
+    "name": "BOMBAY SAPPHIRE® Sunset & Tonic",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121233_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_bombay-sapphire-sunset-tonic_531443.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "81397", "quantity": 4, "measure": "cl" },
+      { "id": "16917", "quantity": 8, "measure": "cl" },
+      { "id": "21432", "quantity": 1, "measure": "rondelle" },
+      { "id": "24869", "quantity": 1 }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Verser les ingrédients (tranche d’orange en premier) dans un verre ballon rempli de glaçons, puis garnir."
+    ]
+  },
+  {
+    "name": "G’Vine Tonic The Perfect G&T",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121121_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_g-vine-tonic-the-perfect-g-t_531380.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "53821", "quantity": 40, "measure": "ml" },
+      { "id": "37210", "quantity": 1 },
+      { "id": "76279", "quantity": 3 }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Remplir un large verre à vin de glaçons. Remuer les glaçons à la cuillère et retirer le surplus d’eau. Verser le G’Vine Floraison (le bouchon est la dose parfaite).",
+      "Compléter d’un excellent tonic. Décorer de quelques raisins blancs."
+    ]
+  },
+  {
+    "name": "June In July",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121030_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_june-in-july_531347.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 40, "measure": "ml" },
+      { "id": "26784", "quantity": 15, "measure": "ml" },
+      { "id": "83038", "quantity": 15, "measure": "ml" },
+      { "id": "62222", "quantity": 40, "measure": "ml" },
+      { "id": "37210", "quantity": 60, "measure": "ml" },
+      { "id": "54735", "quantity": null }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un grand verre à vin, ajouter de la glacer et verser le JUNE Pêche de Vigne & Fruits d’été, les jus de citron et de pamplemousse et le thé à la menthe.",
+      "Ajouter le tonic. Décorer avec des fruits de saison."
+    ]
+  },
+  {
+    "name": "Americano",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121028_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_americano_531344.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "73643", "quantity": 40, "measure": "ml" },
+      { "id": "04714", "quantity": 40, "measure": "ml" },
+      { "id": "19225", "quantity": 40, "measure": "ml" },
+      { "id": "58786", "quantity": 1, "measure": "fine tranche" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un verre ballon, ajouter des glaçons et verser le JUNE Poire Royale & Cardamone et La Quintinye Vermouth Royal blanc.",
+      "Ajouter l’eau pétillante. Mélanger délicatement avec une cuillère. Décorer avec une tranche de poire fraîche."
+    ]
+  },
+  {
+    "name": "June Green Spritz",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120990_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_june-green-spritz_531336.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "73643", "quantity": 50, "measure": "ml" },
+      { "id": "97089", "quantity": 50, "measure": "ml" },
+      { "id": "59710", "quantity": 100, "measure": "ml" },
+      { "id": "25116", "quantity": 1, "measure": "brin" },
+      { "id": "58786", "quantity": 1, "measure": "fine tranche" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un grand verre à vin, ajouter des glaçons et verser le JUNE Poire Royale & Cardamome et le Prosecco.",
+      "Ajouter du Schweppes Matcha. Décorer avec la tranche de poire fraîche et la verveine."
+    ]
+  },
+  {
+    "name": "Dark & Pear",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120986_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_dark-pear_531335.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "73643", "quantity": 40, "measure": "ml" },
+      { "id": "61448", "quantity": 20, "measure": "ml" },
+      { "id": "26784", "quantity": 5, "measure": "ml" },
+      { "id": "22252", "quantity": 20, "measure": "ml" },
+      { "id": "31718", "quantity": null }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Mettre la glace et tous les ingrédients dans un shaker et agiter vigoureusement.",
+      "Filtrer dans une coupe en verre glacée et râper du chocolat sur la moitié de la surface."
+    ]
+  },
+  {
+    "name": "June Mule",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120975_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_june-mule_531334.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "73643", "quantity": 50, "measure": "ml" },
+      { "id": "21085", "quantity": 100, "measure": "ml" },
+      { "id": "22741", "quantity": 2, "measure": "traits" },
+      { "id": "16387", "quantity": 1, "measure": "quartier" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Remplir un grand verre de glace. Remuer les glaçons avec une cuillère. Versez le JUNE Poire Royale & Cardamone et le Ginger Beer puis ajouter 2 traits de bitter orange.",
+      "Décorer avec un morceau de citron vert. Terminer par 1 ou 2 pulvérisations de JUNE Poire Royale & Cardamone."
+    ]
+  },
+  {
+    "name": "June Red Cheeks",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120974_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_june-red-cheeks_531333.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 50, "measure": "ml" },
+      { "id": "18796", "quantity": 50, "measure": "ml" },
+      { "id": "32554", "quantity": 100, "measure": "ml" },
+      { "id": "22800", "quantity": null }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un grand verre à vin, ajouter des glaçons et verser le JUNE Pêche de Vigne & Fruits d’été et le champagne.",
+      "Ajouter le Schweppes Hibiscus. Décorer de baies de genièvre."
+    ]
+  },
+  {
+    "name": "Peach Aviation",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120972_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_peach-aviation_531332.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 45, "measure": "ml" },
+      { "id": "87788", "quantity": 15, "measure": "ml" },
+      { "id": "64991", "quantity": 5, "measure": "ml" },
+      { "id": "21877", "quantity": 20, "measure": "ml" },
+      { "id": "87534", "quantity": 1, "measure": "tranche" }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Dans un shaker, ajouter des glaçons et les ingrédients puis secouer vigoureusement.",
+      "Verser dans un verre coupette. Décorer avec une pêche déshydratée."
+    ]
+  },
+  {
+    "name": "White Sangria",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120968_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_white-sangria_531331.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "73643", "quantity": 2.4, "measure": "l" },
+      { "id": "50575", "quantity": 2.58, "measure": "l" },
+      { "id": "07675", "quantity": 2.4, "measure": "l" },
+      { "id": "24869", "quantity": null },
+      { "id": "05916", "quantity": null },
+      { "id": "58964", "quantity": null },
+      { "id": "49429", "quantity": null },
+      { "id": "54735", "quantity": null }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Faire infuser à froid le thé vert avec l’anis étoilé, le gingembre, le romarin et le pamplemousse.",
+      "Ajouter tous les ingrédients dans un bol à punch ou dans une carafe. Faire refroidir le tout avec des glaçons et ajouter des fruits de saison."
+    ]
+  },
+  {
+    "name": "June Hours",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120941_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_june-hours_531330.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 50, "measure": "ml" },
+      { "id": "21877", "quantity": 30, "measure": "ml" },
+      { "id": "07675", "quantity": 100, "measure": "ml" },
+      { "id": "21432", "quantity": 2, "measure": "fines tranches" },
+      { "id": "16387", "quantity": 1, "measure": "fine tranche" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un grand verre à vin, ajouter des glaçons et verser le JUNE Pêche de Vigne & Fruits d’été.",
+      "Ajouter le jus de citron vert et le thé vert. Décorer avec de jolies fleurs, des tranches de citron vert et d’orange."
+    ]
+  },
+  {
+    "name": "Spice my June",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120927_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_spice-my-june_531326.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 60, "measure": "ml" },
+      { "id": "21877", "quantity": 15, "measure": "ml" },
+      { "id": "58149", "quantity": 70, "measure": "ml" },
+      { "id": "19225", "quantity": 30, "measure": "ml" },
+      { "id": "04714", "quantity": 10, "measure": "ml" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Dans un grand verre à vin, ajouter des glaçons et verser le JUNE Pêche de Vigne & Fruits d’été.",
+      "Ajouter le jus de citron vert et le Pimento, l’eau pétillante et la Quintinye Vermouth Royal Rouge. Remuer délicatement avec une cuillère à cocktail."
+    ]
+  },
+  {
+    "name": "Peach Sour",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/120921_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_peach-sour_531322.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "39895", "quantity": 50, "measure": "ml" },
+      { "id": "26784", "quantity": 20, "measure": "ml" },
+      { "id": "52306", "quantity": 10, "measure": "ml" },
+      { "id": "22252", "quantity": 20, "measure": "ml" },
+      { "id": "58224", "quantity": 2, "measure": "quartiers" }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Dans un shaker rempli de glaçons, ajouter les ingrédients puis agiter vigoureusement.",
+      "Verser dans un verre tumbler rempli de glaçons. Décorer avec la tranche de pêche fraîche."
+    ]
+  },
+  {
+    "name": "Bourbon sloe gin fizz",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84789_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_bourbon-sloe-gin-fizz_354917.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 19,
+    "ingredients": [
+      { "id": "28869", "quantity": 6, "measure": "cl" },
+      { "id": "72341", "quantity": 3, "measure": "cl" },
+      { "id": "26784", "quantity": 0.5, "measure": "cl" },
+      { "id": "52306", "quantity": 0.5, "measure": "cl" },
+      { "id": "19225", "quantity": null }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Bourbon sloe gin fizz\" directement dans le verre.",
+      "Versez les ingrédients dans le rempli de glaçons en complétant avez l'eau gazeuse. Mélanger délicatement avant de servir.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Une cerise confite."
+    ]
+  },
+  {
+    "name": "European Bronx",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84794_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_european-bronx_354922.aspx",
+    "level": "Moyenne",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 17,
+    "ingredients": [
+      { "id": "72341", "quantity": 4, "measure": "cl" },
+      { "id": "90884", "quantity": 2, "measure": "cl" },
+      { "id": "20264", "quantity": 1, "measure": "cl" },
+      { "id": "90842", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"European Bronx\" au shaker.",
+      "Frapper les ingrédients au shaker avec des glaçons et versez dans le verre en retenant la glace. .",
+      "Servir dans un verre de type \"verre à martini\"."
+    ]
+  },
+  {
+    "name": "Dubonnet cocktail",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84878_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_dubonnet-cocktail_354940.aspx",
+    "level": "Moyenne",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 8,
+    "ingredients": [
+      { "id": "83719", "quantity": 4, "measure": "cl" },
+      { "id": "72341", "quantity": 1, "measure": "cl" },
+      { "id": "55811", "quantity": 0.5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "36949" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Dubonnet cocktail\" dans un verre à mélange.",
+      "Verser les ingrédients dans le verre à mélange, remuer, passer dans le verre.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Décorer d'un zeste de citron."
+    ]
+  },
+  {
+    "name": "Gin Fizz",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81650_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_gin-fizz_354946.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 646,
+    "ingredients": [
+      { "id": "72341", "quantity": 6, "measure": "cl" },
+      { "id": "52306", "quantity": 2, "measure": "cl" },
+      { "id": "19225", "quantity": 12, "measure": "cl" },
+      { "id": "12232", "quantity": 4, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "46023" }],
+    "preparation": [
+      "Réaliser la recette \"Gin Fizz\" au shaker.",
+      "Frapper le gin, le jus de citron et le sucre avec des glaçons, verser dans le verre tout le contenu du shaker et allonger d'eau gazeuse bien fraîche.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer d'une tranche de citron vert sur le bord du verre."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b1o?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_979de14184752f0c0e4fb664369d3255&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Pastis orange",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84879_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_pastis-orange_354945.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 32,
+    "ingredients": [
+      { "id": "55793", "quantity": 4, "measure": "cl" },
+      { "id": "90842", "quantity": null }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Pastis orange\" directement dans le verre.",
+      "Verser le Pernod dans le verre sur des glaçons. Compléter avec le jus d'orange.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Sazerac",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118748_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_sazerac_355031.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 17,
+    "ingredients": [
+      { "id": "55793", "quantity": 1, "measure": "cl" },
+      { "id": "55811", "quantity": 4, "measure": "gouttes" },
+      { "id": "52306", "quantity": 1, "measure": "cl" },
+      { "id": "28869", "quantity": 6, "measure": "cl" },
+      { "id": "31049", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Sazerac\" directement dans le verre.",
+      "Rafraîchir le verre en le remplissant de glaçons. Vider le contenu du verre, verser les ingrédients dans le verre.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Garnir d'un zeste de citron."
+    ]
+  },
+  {
+    "name": "Tomate",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84813_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_tomate_356320.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 76,
+    "ingredients": [
+      { "id": "14911", "quantity": null },
+      { "id": "55793", "quantity": 4, "measure": "cl" },
+      { "id": "46220", "quantity": 0.5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Tomate\" directement dans le verre.",
+      "Servir dans le verre avec des glaçons. Remplir d'eau glacée. .",
+      "Servir dans un verre de type \"tumbler\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Mauresque",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84321_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_mauresque_357056.aspx",
+    "level": "Facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 131,
+    "ingredients": [
+      { "id": "14911", "quantity": 15, "measure": "cl" },
+      { "id": "15185", "quantity": 1, "measure": "cl" },
+      { "id": "55793", "quantity": 3, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Mauresque\" directement dans le verre.",
+      "Verser le pastis et le sirop et compléter d'eau glacée et des glaçons.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Pastis water (Petit jaune)",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81972_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_pastis-water-petit-jaune_357109.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 105,
+    "ingredients": [
+      { "id": "55793", "quantity": 1, "measure": "volume" },
+      { "id": "14911", "quantity": 5, "measure": "volumes" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Pastis water (Petit jaune)\" directement dans le verre.",
+      "Verser le pernod (pastis, ricard etc...) au fond du verre sur 5 cubes de glaçons, et compléter avec de l'eau fraîche.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Brugal Sibarita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121192_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_brugal-sibarita_531421.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 5,
+    "reviews": 1,
+    "ingredients": [
+      { "id": "55213", "quantity": 35, "measure": "ml" },
+      { "id": "60604", "quantity": 15, "measure": "ml" },
+      { "id": "49295", "quantity": 15, "measure": "ml" },
+      { "id": "95441", "quantity": 1, "measure": "trait" },
+      { "id": "40566", "quantity": 1 }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Placer des glaçons dans le verre et ajouter Brugal 1888 puis l’Apérol, le Lillet et le trait de bitter par-dessus, mélanger.",
+      "Presser le zeste de pamplemousse au-dessus du verre et l’ajouter dans le verre comme garnish."
+    ]
+  },
+  {
+    "name": "Negroni Dominicana",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121190_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_negroni-dominicana_531419.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "55213", "quantity": 30, "measure": "ml" },
+      { "id": "67395", "quantity": 10, "measure": "ml" },
+      { "id": "09802", "quantity": 15, "measure": "ml" },
+      { "id": "54698", "quantity": 1 },
+      { "id": "95446", "quantity": 1 }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Placer le cube de glace dans le verre et ajouter le Brugal 1888, puis le Vermouth par-dessus, mélanger",
+      "Ajouter une gousse de vanille comme garnish.",
+      "Presser le zeste d'orange au-dessus du verre sans l'ajouter au cocktail."
+    ]
+  },
+  {
+    "name": "Don Nano’s Favourite",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121186_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_don-nano-s-favourite_531417.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 1,
+    "ingredients": [
+      { "id": "55213", "quantity": 50, "measure": "ml" },
+      { "id": "72587", "quantity": 1 }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Verser l’eau de coco dans le moule sphérique au ¾ et le placer au congélateur pendant 48 à 72h.",
+      "Dans un grand verre, servir 50 ml de Brugal 1888 sur une sphère d’eau de coco glacée."
+    ]
+  },
+  {
+    "name": "Banana daiquiri",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80351_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_banana-daiquiri_354912.aspx",
+    "level": "Facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 154,
+    "ingredients": [
+      { "id": "58660", "quantity": 6, "measure": "cl" },
+      { "id": "20369", "quantity": 1, "measure": "cl" },
+      { "id": "26784", "quantity": 2, "measure": "cl" },
+      { "id": "33480", "quantity": 2, "measure": "cl" },
+      { "id": "72451", "quantity": 1, "measure": "cl" },
+      { "id": "52306", "quantity": 0.5, "measure": "cl" },
+      { "id": "93704", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "85322" }, { "id": "16038" }],
+    "preparation": [
+      "Réalisez la recette \"Banana daiquiri\" au mixer.",
+      "Mixer à petite vitesse avec de la glace pilée pour obtenir un mélange onctueux, verser dans un ballon refroidi.",
+      "Servir dans un verre de type \"verre à vin\".",
+      "Décorer d'une tranche de banane."
+    ]
+  },
+  {
+    "name": "Beachcomber",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84246_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_beachcomber_354913.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 4,
+    "ingredients": [
+      { "id": "58660", "quantity": 4, "measure": "cl" },
+      { "id": "20369", "quantity": 1, "measure": "cl" },
+      { "id": "21877", "quantity": 1, "measure": "cl" },
+      { "id": "87788", "quantity": 0.5, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Beachcomber\" au shaker.",
+      "Frapper au shaker et servir dans un verre refroidi. Givrer les bords du verre avec du sucre et du jus de citron vert.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Aucune décoration."
+    ]
+  },
+  {
+    "name": "Cuba libre",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81646_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_cuba-libre_354934.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 949,
+    "ingredients": [
+      { "id": "36755", "quantity": 6, "measure": "cl" },
+      { "id": "21877", "quantity": 4, "measure": "cl" },
+      { "id": "30275", "quantity": 15, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "80685" }, { "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Cuba libre\" directement dans le verre.",
+      "Verser citron et rhum sur des glaçons. Compléter avec le coca cola. Remuer lentement.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer avec une tranche de citron vert."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b1j?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_1b679c85c85a498f105b2b650c64351f&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Daiquiri",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80342_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_daiquiri_354936.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 1030,
+    "ingredients": [
+      { "id": "36755", "quantity": 4, "measure": "cl" },
+      { "id": "21877", "quantity": 2, "measure": "cl" },
+      { "id": "52306", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Daiquiri\" au shaker.",
+      "Frapper avec des glaçons et passer dans le verre.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Décorer d'une tranche de citron vert sur le bord du verre et d'un morceau de citron vert dans le verre."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b1m?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_54d90987f08ce09adb167f88ac53cd02&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Mojito",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80255_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_mojito_354965.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 5529,
+    "ingredients": [
+      { "id": "65607", "quantity": 7 },
+      { "id": "19225", "quantity": null },
+      { "id": "52306", "quantity": 2, "measure": "cl" },
+      { "id": "12232", "quantity": 3, "measure": "cl" },
+      { "id": "58660", "quantity": 6, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "80685" }, { "id": "29103" }, { "id": "46023" }],
+    "preparation": [
+      "Réaliser la recette \"Mojito\" directement dans le verre.",
+      "Placer les feuilles de menthe dans le verre, ajouter le sucre et le jus de citron vert. Piler consciencieusement afin d'exprimer l'essence de la menthe, mais sans la broyer. Ajouter le rhum blanc, remplir le verre à moitié de glaçons et compléter avec de l'eau gazeuse. Mélanger doucement et servir avec une paille.",
+      "Servir dans un verre de type \"tumbler\".",
+      "Décorer avec des feuilles de menthe fraîches et une tranche de citron."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b4h?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_6c36bfa2249edd1c060ff4fc43aa19bc&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Blue Hawaiian",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81667_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_blue-hawaiian_354999.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 361,
+    "ingredients": [
+      { "id": "58660", "quantity": 4, "measure": "cl" },
+      { "id": "00474", "quantity": 2, "measure": "cl" },
+      { "id": "90588", "quantity": 8, "measure": "cl" },
+      { "id": "46045", "quantity": 4, "measure": "cl" }
+    ],
+    "utensils": [
+      { "id": "78195" },
+      { "id": "10371" },
+      { "id": "07790" },
+      { "id": "62110" },
+      { "id": "09017" }
+    ],
+    "preparation": [
+      "Réalisez la recette \"Blue Hawaiian\" au shaker.",
+      "Frappez les ingrédients au shaker avec des glaçons et versez en filtrant dans le verre rempli de glaçons ou de glace pilée.",
+      "Servir dans un verre de type \"verre tulipe\".",
+      "Décorez avec un morceau d'ananas et d'une cerise confite."
+    ]
+  },
+  {
+    "name": "Piña Colada",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80258_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_pina-colada_355032.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 2166,
+    "ingredients": [
+      { "id": "58660", "quantity": 4, "measure": "cl" },
+      { "id": "49776", "quantity": 2, "measure": "cl" },
+      { "id": "90588", "quantity": 12, "measure": "cl" },
+      { "id": "46045", "quantity": 4, "measure": "cl" }
+    ],
+    "utensils": [
+      { "id": "78195" },
+      { "id": "85322" },
+      { "id": "62110" },
+      { "id": "16038" }
+    ],
+    "preparation": [
+      "Réalisez la recette \"Piña Colada\" au mixer.",
+      "Dans un blender (mixer), versez les ingrédients avec 5 ou 6 glaçons et mixez le tout. C'est prêt ! Versez dans le verre et dégustez. Peut aussi se réaliser au shaker si c'est juste pour une personne.",
+      "Servir dans un verre de type \"verre à vin\".",
+      "Décorer avec un morceau d'ananas et une cerise confite."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b47?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_503d3051cc1c449c0b10e39121885aaa&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Mai Tai",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81969_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_mai-tai_355116.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 232,
+    "ingredients": [
+      { "id": "58660", "quantity": 3, "measure": "cl" },
+      { "id": "49776", "quantity": 3, "measure": "cl" },
+      { "id": "20369", "quantity": 2, "measure": "cl" },
+      { "id": "52306", "quantity": 1, "measure": "cl" },
+      { "id": "21877", "quantity": 3, "measure": "cl" },
+      { "id": "15185", "quantity": 1, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "09017" }],
+    "preparation": [
+      "Réalisez la recette \"Mai Tai\" au shaker.",
+      "Frapper les ingrédients et servir dans un verre rempli de glace.",
+      "Servir dans un verre de type \"verre tulipe\".",
+      "Une cerise confite, une tranche d'orange et un petit parasol."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865b41?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_dcff0f4ccd2436170ffd60f5d65edd1f&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Dominican Double",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121194_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_dominican-double_531423.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "55213", "quantity": 50, "measure": "ml" },
+      { "id": "26475", "quantity": 10, "measure": "ml" },
+      { "id": "64730", "quantity": 10, "measure": "ml" },
+      { "id": "27861", "quantity": 1, "measure": "poignée" }
+    ],
+    "utensils": [],
+    "preparation": [
+      "Mélanger le Brugal 1888, la crème de bananes et le Vermouth dans un verre à mélange, puis verser dans la coupe.",
+      "Servir avec des chips de banane."
+    ]
+  },
+  {
+    "name": "Americano",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81649_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_americano_354909.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 773,
+    "ingredients": [
+      { "id": "90884", "quantity": 2, "measure": "cl" },
+      { "id": "67395", "quantity": 4, "measure": "cl" },
+      { "id": "19225", "quantity": null }
+    ],
+    "utensils": [{ "id": "84789" }, { "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Americano\" directement dans le verre.",
+      "Verser les alcools sur les glaçons, allonger à l'eau gazeuse, remuer et servir.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Décorer d'une demi tranche et d'un zeste d'orange."
+    ],
+    "video": "https://www.dailymotion.com/embed/video/x865azd?api=postMessage&autoplay=true&force_play_type=false&hide_play_icon=false&id=player_d14555d925d0ad2ac9c01ca40ea5e977&mute=false&muted=true&origin=https%3A%2F%2Fwww.1001cocktails.com&other_videos=false&playlist=false&pubtool=jssdk&right_video=false&syndication=&wmode="
+  },
+  {
+    "name": "Manhattan",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84499_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_manhattan_354956.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 294,
+    "ingredients": [
+      { "id": "28869", "quantity": 4, "measure": "cl" },
+      { "id": "90884", "quantity": 2, "measure": "cl" },
+      { "id": "55811", "quantity": 5, "measure": "gouttes" }
+    ],
+    "utensils": [
+      { "id": "78195" },
+      { "id": "84789" },
+      { "id": "36949" },
+      { "id": "26554" }
+    ],
+    "preparation": [
+      "Réalisez la recette \"Manhattan\" dans un verre à mélange.",
+      "Versez les ingrédients dans un verre à mélange avec des glaçons et agitez vigoureusement avec une cuillère à mélange. Passez dans le verre préalablement rafraîchi en retenant les glaçons.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Une cerise au fond du verre."
+    ]
+  },
+  {
+    "name": "Algonquin",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84797_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_algonquin_355126.aspx",
+    "level": "Facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 21,
+    "ingredients": [
+      { "id": "28869", "quantity": 4, "measure": "cl" },
+      { "id": "20264", "quantity": 1.5, "measure": "cl" },
+      { "id": "90588", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Algonquin\" au shaker.",
+      "Frappez les ingrédients au shaker avec 5 glaçons, puis passez dans le verre.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Décorez d'un petit parapluie..."
+    ]
+  },
+  {
+    "name": "Old Fashioned Whisky Cocktail",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118530_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_old-fashioned-whisky-cocktail_354957.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 4,
+    "reviews": 68,
+    "ingredients": [
+      { "id": "28869", "quantity": 6, "measure": "cl" },
+      { "id": "55811", "quantity": 1, "measure": "trait" },
+      { "id": "52598", "quantity": 1, "measure": "cube" }
+    ],
+    "utensils": [{ "id": "21841" }],
+    "preparation": [
+      "Réalisez la recette \"Old Fashioned Whisky Cocktail\" directement dans le verre.",
+      "Mettez le sucre dans le verre, arrosez-le avec l'angostura, une goutte de whisky puis écrasez-le et touillez jusqu'à la dissolution complète du sucre. Pour finir, ajouter des glaçons et le whisky.",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Ajouter un large zeste d'orange."
+    ]
+  },
+  {
+    "name": "Whisky Sour",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118018_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_whisky-sour_355047.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 447,
+    "ingredients": [
+      { "id": "28869", "quantity": 5, "measure": "cl" },
+      { "id": "31049", "quantity": 1 },
+      { "id": "52306", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }, { "id": "62110" }],
+    "preparation": [
+      "Réalisez la recette \"Whisky Sour\" au shaker.",
+      "Presser le jus d'un citron, verser dans le shaker avec le whisky et le sucre de canne. Bien frapper avec quelques glaçons et versez le tout dans le verre.",
+      "Servir dans un verre de type \"old fashioned\"."
+    ]
+  },
+  {
+    "name": "Old Fashioned",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118017_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_old-fashioned_355390.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 94,
+    "ingredients": [
+      { "id": "19225", "quantity": null },
+      { "id": "52598", "quantity": 1, "measure": "morceau" },
+      { "id": "55811", "quantity": 1, "measure": "trait" },
+      { "id": "28869", "quantity": 5, "measure": "cl" },
+      { "id": "21432", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "21841" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Old Fashioned\" dans un verre à mélange.",
+      "Écraser le morceau de sucre imbibé d'Angostura avec le zeste d'orange dans le fond d'un verre jusqu'à dissolution complète du sucre. Remplir de glace, ajouter le Bourbon et compléter avec l'eau gazeuse. .",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Décorer d'une demi-tranche d'orange et de deux cerises au marasquin."
+    ]
+  },
+  {
+    "name": "Godfather",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118139_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_godfather_355718.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 3.5,
+    "reviews": 62,
+    "ingredients": [
+      { "id": "28869", "quantity": 4, "measure": "cl" },
+      { "id": "58162", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "21841" }, { "id": "26554" }],
+    "preparation": [
+      "Réalisez la recette \"Godfather\" dans un verre à mélange.",
+      "Verser les ingrédients dans un verre old-fashioned avec quelques glaçons. Remuer à l'aide de la cuillère à mélange. .",
+      "Servir dans un verre de type \"old fashioned\".",
+      "Aucune, ou placez éventuellement une tranche de carambole dans le verre."
+    ]
+  },
+  {
+    "name": "Whisky Coca",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84959_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_whisky-coca_357768.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 197,
+    "ingredients": [
+      { "id": "28869", "quantity": 5, "measure": "cl" },
+      { "id": "30275", "quantity": 7, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Whisky Coca\" directement dans le verre.",
+      "Versez le whisky directement sur des glaçons et allonger de cola.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Crème de baileys",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81965_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_creme-de-baileys_358202.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 67,
+    "ingredients": [
+      { "id": "93395", "quantity": 3, "measure": "l" },
+      { "id": "28869", "quantity": 3, "measure": "l" },
+      { "id": "33480", "quantity": 2.5, "measure": "l" },
+      { "id": "91272", "quantity": 30 },
+      { "id": "71065", "quantity": 15, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "29833" }],
+    "preparation": [
+      "Réalisez la recette \"Crème de baileys\" directement en bouteilles.",
+      "Mélanger tous les ingrédients au mixer afin que le mélange soit lisse, mettre en bouteilles et placer au réfrigérateur. Se conserve un mois au réfrigérateur. Consommer frais.",
+      "Servir dans un verre de type \"\"."
+    ]
+  },
+  {
+    "name": "Lynchburg Lemonade",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/88315_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_lynchburg-lemonade_359350.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3,
+    "reviews": 31,
+    "ingredients": [
+      { "id": "28869", "quantity": 4, "measure": "cl" },
+      { "id": "20369", "quantity": 2, "measure": "cl" },
+      { "id": "26784", "quantity": 1, "measure": "cl" },
+      { "id": "52306", "quantity": 1, "measure": "cl" },
+      { "id": "51435", "quantity": null }
+    ],
+    "utensils": [{ "id": "46023" }],
+    "preparation": [
+      "Réalisez la recette \"Lynchburg Lemonade\" directement dans le verre.",
+      "Verser les ingrédients dans le verre contenant des glaçons et compléter avec la limonade. Remuer légèrement avant de consommer.",
+      "Servir dans un verre de type \"tumbler\"."
+    ]
+  },
+  {
+    "name": "Smoky Casa Margarita",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/121155_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_smoky-casa-margarita_531401.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 0,
+    "reviews": 0,
+    "ingredients": [
+      { "id": "18758", "quantity": 4, "measure": "cl" },
+      { "id": "21877", "quantity": 3, "measure": "cl" },
+      { "id": "52306", "quantity": 2, "measure": "cl" },
+      { "id": "45656", "quantity": 2, "measure": "traits" },
+      { "id": "05800", "quantity": 1 }
+    ],
+    "utensils": [{ "id": "62110" }],
+    "preparation": [
+      "Mettre tous les ingrédients dans un shaker en métal. Ajouter de la glace, secouer vigoureusement et filtrer dans un verre à glace.",
+      "Ajouter de la glace fraîche, exprimer les huiles d'orange naturelles de l'écorce sur le dessus du cocktail et garnir."
+    ]
+  },
+  {
+    "name": "Brandy Alexander",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84247_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_brandy-alexander_354918.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 24,
+    "ingredients": [
+      { "id": "95666", "quantity": 4, "measure": "cl" },
+      { "id": "01867", "quantity": 4, "measure": "cl" },
+      { "id": "33480", "quantity": 4, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Brandy Alexander\" au shaker.",
+      "Frappez avec des glaçons et versez en filtrant. Conseils : Utilisez impérativement de la crème fraîche legère, sinon ajoutez un peu de lait.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Saupoudrer de noix muscade râpée."
+    ]
+  },
+  {
+    "name": "Perfect Brandy Alexander",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/84791_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_perfect-brandy-alexander_354919.aspx",
+    "level": "Moyenne",
+    "cost": 1,
+    "stars": 3,
+    "reviews": 1,
+    "ingredients": [
+      { "id": "95666", "quantity": 80, "measure": "cl" },
+      { "id": "90204", "quantity": 400, "measure": "g" },
+      { "id": "72451", "quantity": null },
+      { "id": "33480", "quantity": null }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "20875" }],
+    "preparation": [
+      "Réalisez la recette \"Perfect Brandy Alexander\" au shaker.",
+      "Mélangez et faites-fondre le chocolat avec un peu de lait, sans laisser bouillir. Ajoutez la crème fraîche selon votre goût. Laissez refroidir et frappez au shaker avec le brandy et des glaçons. .",
+      "Servir dans un verre de type \"verre à dégustation\"."
+    ]
+  },
+  {
+    "name": "Side-car",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118136_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_side-car_354962.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4.5,
+    "reviews": 85,
+    "ingredients": [
+      { "id": "20369", "quantity": 2, "measure": "cl" },
+      { "id": "95666", "quantity": 5, "measure": "cl" },
+      { "id": "26784", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Side-car\" au shaker.",
+      "Frapper les ingrédients dans le shaker avec 5 ou 6 glaçons et servir dans le verre rafraîchi en retenant les glaçons.",
+      "Servir dans un verre de type \"verre à martini\"."
+    ]
+  },
+  {
+    "name": "Alexandra",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118260_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_alexandra_355125.aspx",
+    "level": "Très facile",
+    "cost": 2,
+    "stars": 3.5,
+    "reviews": 67,
+    "ingredients": [
+      { "id": "95666", "quantity": 2, "measure": "cl" },
+      { "id": "01867", "quantity": 2, "measure": "cl" },
+      { "id": "33480", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Alexandra\" au shaker.",
+      "Frappez les ingrédients au shaker, puis passez dans le verre. Conseils : Utilisez de la crème fraîche legère, sinon ajoutez un petit peu de lait.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Râper un peu de Noix de Muscade au-dessus du verre."
+    ]
+  },
+  {
+    "name": "Sunshine",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118745_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_sunshine_358314.aspx",
+    "level": "Facile",
+    "cost": 2,
+    "stars": 4,
+    "reviews": 2,
+    "ingredients": [
+      { "id": "95666", "quantity": 2, "measure": "cl" },
+      { "id": "37646", "quantity": 4, "measure": "cl" },
+      { "id": "52306", "quantity": 1, "measure": "cuillère à soupe" },
+      { "id": "21877", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "62110" }, { "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Sunshine\" au shaker.",
+      "Frappez les élèments dans un shaker avec des glaçons. Servir dans le verre en retenant les glaçons. .",
+      "Servir dans un verre de type \"verre à martini\"."
+    ]
+  },
+  {
+    "name": "Mêlé-cass",
+    "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118433_origin.jpg",
+    "link": "https://www.1001cocktails.com/recettes/recette_mele-cass_359015.aspx",
+    "level": "Très facile",
+    "cost": 1,
+    "stars": 2.5,
+    "reviews": 15,
+    "ingredients": [
+      { "id": "85681", "quantity": 4, "measure": "cl" },
+      { "id": "35592", "quantity": 2, "measure": "cl" }
+    ],
+    "utensils": [{ "id": "36949" }],
+    "preparation": [
+      "Réalisez la recette \"Mêlé-cass\" directement dans le verre.",
+      "Mélanger les ingrédients dans un verre à mélange rempli de glaçons, puis verser dans le verre de service en retenant les glaçons.",
+      "Servir dans un verre de type \"verre à martini\".",
+      "Quelques tranches de pomme sur le bord du verre."
+    ]
+  }
+]

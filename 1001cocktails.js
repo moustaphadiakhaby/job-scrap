@@ -145,10 +145,6 @@ const getCocktails = async (index) => {
       await browser.close();
     }
 
-    // cocktailsTab.map(async (cocktail, i) => {
-
-    // });
-
     for (let i = 0; i < cocktailsTab.length; i++) {
       const browser = await puppeteer.launch({ headless: "new" });
       const page = await browser.newPage();
@@ -183,19 +179,11 @@ const getCocktails = async (index) => {
       });
 
       const preparation = await page.evaluate(() => {
-        const arrPreparation = [
+        return [
           ...document.querySelectorAll(".cocktail-preparation__step"),
         ].map((elem) => {
           return elem.innerText;
         });
-
-        const objPreparation = arrPreparation.reduce((acc, curr) => {
-          const position = arrPreparation.indexOf(curr);
-          acc["step" + (position + 1)] = curr;
-          return acc;
-        }, {});
-
-        return objPreparation;
       });
 
       const video = await page.evaluate(() => {

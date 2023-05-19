@@ -13,7 +13,7 @@ const table = base("Jobs");
 let offerTab = [];
 
 const getJobOffers = async () => {
-  const browser = await puppeteer.launch({ headless: "new" });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto(
     `https://www.welcometothejungle.com/fr/stacks?page=1&refinementList%5Btools.frontend%5D%5B%5D=React%20JS`,
@@ -92,7 +92,7 @@ const getMoreAboutOffers = async (index) => {
 
           console.log(`The element '${realName}' exists in the table.`);
         } else {
-          const browser = await puppeteer.launch({ headless: "new" });
+          const browser = await puppeteer.launch({ headless: false });
           const page = await browser.newPage();
 
           await page.goto(offerTab[index].link, {
