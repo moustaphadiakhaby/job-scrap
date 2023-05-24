@@ -1,6 +1,7 @@
 import puppeteer from "puppeteer";
 import Airtable from "airtable";
 import * as dotenv from "dotenv";
+import fs from "fs";
 
 dotenv.config();
 
@@ -9,6 +10,55 @@ const { API_KEY, BASE_ID } = process.env;
 const base = new Airtable({ apiKey: API_KEY }).base(BASE_ID);
 
 const table = base("Jobs");
+
+const getAllRecords = async () => {
+  try {
+    const records = [];
+
+    const processPage = async (partialRecords, fetchNextPage) => {
+      records.push(...partialRecords);
+
+      if (fetchNextPage) {
+        await new Promise((resolve) => {
+          fetchNextPage(resolve);
+        });
+        await processPage(await fetchNextPage());
+      }
+    };
+
+    await new Promise((resolve) => {
+      table.select().eachPage((partialRecords, fetchNextPage) => {
+        processPage(partialRecords, fetchNextPage);
+      }, resolve);
+    });
+
+    return records.map((record) => record.fields);
+  } catch (error) {
+    console.error("Error retrieving records:", error);
+    throw error;
+  }
+};
+
+const saveToFile = (data) => {
+  fs.writeFile("./data/wttja.json", JSON.stringify(data), "utf8", (err) => {
+    if (err) {
+      console.log(err);
+    } else {
+      console.log("scraping success");
+    }
+  });
+};
+
+// (async () => {
+//   try {
+//     const records = await getAllRecords();
+//     console.log("Retrieved records:", records);
+//     saveToFile(records);
+//     // Use the retrieved records as needed
+//   } catch (error) {
+//     // Handle any errors
+//   }
+// })();
 
 let offerTab = [];
 
@@ -67,7 +117,7 @@ const getJobOffers = async () => {
   await browser.close();
 };
 
-getJobOffers();
+// getJobOffers();
 
 const getMoreAboutOffers = async (index) => {
   if (index < offerTab.length) {
