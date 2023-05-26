@@ -1,16 +1,21 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 import dayjs from "dayjs";
-import data from "./data/allocine/actors.json" assert { type: "json" };
+import data from "./data/allocine/directors.json" assert { type: "json" };
 
 const saveToFile = (data) => {
-  fs.writeFile("./data/newactors.json", JSON.stringify(data), "utf8", (err) => {
-    if (err) {
-      console.log(err);
-    } else {
-      console.log("scraping success");
+  fs.writeFile(
+    "./data/newdirectors.json",
+    JSON.stringify(data),
+    "utf8",
+    (err) => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("scraping success");
+      }
     }
-  });
+  );
 };
 
 let moviesTab = [];
