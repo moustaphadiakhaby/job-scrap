@@ -1,4 +1,4 @@
-import data from "./data/wttj.json" assert { type: "json" };
+import data from "./data/entreprises.json" assert { type: "json" };
 import fs from "fs";
 
 const saveToFile = (data) => {
@@ -35,22 +35,16 @@ const allGet = async () => {
       link,
       website,
       logo,
-      networks: [
-        { name: "linkedin", url: linkedin },
-        { name: "twitter", url: twitter },
-        { name: "facebook", url: facebook },
-        { name: "instagram", url: instagram },
-        { name: "youtube", url: youtube },
-      ],
+      linkedin,
+      twitter,
+      facebook,
+      instagram,
+      youtube,
     };
 
-    const newObj = obj.networks.filter((elem) => {
-      if (elem.url) {
-        return elem;
-      }
+    elem.networks.map((e) => {
+      obj[e.name] = e.url;
     });
-
-    obj.networks = newObj;
 
     newData.push(obj);
   });
